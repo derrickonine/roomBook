@@ -3,7 +3,7 @@ RoomBook – Système de réservation des salles de réunion
 1. Présentation du projet
 
 RoomBook est une application web développée en Jakarta EE permettant la gestion des réservations
-des salles de réunion et des équipements associés au sein d’une agence. 
+des salles de réunion et des équipements associés au sein d’une agence.  
 
 L’objectif du projet est d’automatiser la réservation des salles, d’améliorer l’organisation
 des réunions et de faciliter la gestion des ressources (salles et équipements).
