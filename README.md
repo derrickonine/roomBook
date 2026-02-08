@@ -1,4 +1,6 @@
 RoomBook – Système de réservation des salles de réunion
+Vidéo de démonstration :
+[Voir la vidéo explicative](https://drive.google.com/file/d/1T_kB4ypzMwyqfoXMxzyvNaX3TSZ0GOHP/view?usp=sharing)
 
 1. Présentation du projet
 
@@ -52,7 +54,8 @@ Une vidéo de démonstration présentant :
 
 est disponible via le lien suivant :
 
-https://drive.google.com/file/d/1T_kB4ypzMwyqfoXMxzyvNaX3TSZ0GOHP/view?usp=sharing
+(https://drive.google.com/file/d/1T_kB4ypzMwyqfoXMxzyvNaX3TSZ0GOHP/view?usp=sharing)
+
 
 
 6. Déploiement
