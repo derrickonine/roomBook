@@ -67,4 +67,4 @@ Elle est accessible via un navigateur web.
 
 7. Auteur
 
-Nom Prénom
+Derrick NDIKUMANA et Youna BADINGA
